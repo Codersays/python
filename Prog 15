@@ -23,10 +23,6 @@ else:
             if b=="}": 
                 if lst[cnt]=="{": 
                     lst.pop() 
-TYBBA (Computer Application) 
-Python Solved Slips 
-2019 Pattern 
-SMBST College Sangamner, Prof.Dhage H.Y. Page 17 
  
                 else: 
                     print("Invalid Sequence") 
